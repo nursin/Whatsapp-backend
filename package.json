@@ -1,0 +1,8 @@
+{
+  "name": "whatsapp-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/nursin/Whatsapp-backend.git",
+  "author": "Bobby Keel <bobbykeel76@gmail.com>",
+  "license": "MIT"
+}
